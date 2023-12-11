@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Virat Kohli",
+    "team": "India",
+    "role": "Batsman",
+    "age": 33
+  },
+  {
+    "name": "Steve Smith",
+    "team": "Australia",
+    "role": "Batsman",
+    "age": 32
+  },
+  {
+    "name": "Kagiso Rabada",
+    "team": "South Africa",
+    "role": "Bowler",
+    "age": 26
+  },
+  {
+    "name": "Suzie Bates",
+    "team": "New Zealand",
+    "role": "All-rounder",
+    "age": 34
+  }
+]
